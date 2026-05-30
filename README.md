@@ -1,1 +1,3 @@
-# Escaner
+# Escaner de Matéria
+# Unificação de Vários Escaner em 1 único dispositivo para a utilização em mimeração espacial e terrestre na obtenção de recursos. Mostra não só o local, mas onde Escavar e o que tem entre o solo e eventuais riscos ao Meio Ambiemte e a Saúde de pessoas envolvida na Escavação.
+# Em Desenvolvimneto...
